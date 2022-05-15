@@ -1,0 +1,51 @@
+[
+  {
+    "classes": [
+      {
+        "id": 1,
+        "className": "Class 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+        "noOfBatch": 3,
+        "createdBy": "json roy",
+        "createdOn": "18/05/2022",
+        "batches": [
+          {
+            "batchName": "batch 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!"
+          },
+          {
+            "batchName": "batch 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!"
+          },
+          {
+            "batchName": "batch 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!"
+          }
+        ]
+      },
+
+      {
+        "id": 2,
+        "className": "Class 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+        "noOfBatch": 3,
+        "createdBy": "json roy",
+        "createdOn": "18/05/2022",
+        "batches": [
+          {
+            "batchName": "batch 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!"
+          },
+          {
+            "batchName": "batch 2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!"
+          },
+          {
+            "batchName": "batch 3",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!"
+          }
+        ]
+      }
+    ]
+  }
+]

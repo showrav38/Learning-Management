@@ -1,0 +1,59 @@
+[
+  {
+    "courses": [
+      {
+        "id": 1,
+        "courseName": "Course 1",
+        "courseDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+        "noOfTopics": 3,
+        "noOfWeeks": 3,
+        "createdBy": "json roy",
+        "createdOn": "18/05/2022",
+        "topics": [
+          {
+            "topicName": "topic 1",
+            "topicDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+            "noOfWeek": "first"
+          },
+          {
+            "topicName": "topic 2",
+            "topicDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+            "noOfWeek": "second"
+          },
+          {
+            "topicName": "topic 3",
+            "topicDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+            "noOfWeek": "third"
+          }
+        ]
+      },
+
+      {
+        "id": 2,
+        "courseName": "Course 1",
+        "courseDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+        "noOfTopics": 3,
+        "noOfWeeks": 3,
+        "createdBy": "json roy",
+        "createdOn": "18/05/2022",
+        "topics": [
+          {
+            "topicName": "topic 1",
+            "topicDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+            "noOfWeek": "first"
+          },
+          {
+            "topicName": "topic 2",
+            "topicDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+            "noOfWeek": "second"
+          },
+          {
+            "topicName": "topic 3",
+            "topicDescrip": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, similique!",
+            "noOfWeek": "third"
+          }
+        ]
+      }
+    ]
+  }
+]
